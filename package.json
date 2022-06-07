@@ -12,5 +12,8 @@
   "repository": {
     "type": "git",
     "url": "spotify-stats-app"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
   }
 }
