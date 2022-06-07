@@ -1,0 +1,16 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "An app for spotify stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adelin Carabas",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "spotify-stats-app"
+  }
+}
